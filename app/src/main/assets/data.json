@@ -1,0 +1,20 @@
+[
+  {
+    "word": "aberration",
+    "definition": "a departure from what is normal, usual, or expected, typically an unwelcome one",
+    "synonyms": ["anomaly", "deviation", "irregularity"],
+    "antonyms": ["conformity", "normalcy", "consistency"]
+  },
+  {
+    "word": "ephemeral",
+    "definition": "lasting for a very short time",
+    "synonyms": ["transient", "fleeting", "brief"],
+    "antonyms": ["permanent", "enduring", "eternal"]
+  },
+  {
+    "word": "lucid",
+    "definition": "expressed clearly; easy to understand",
+    "synonyms": ["clear", "transparent", "comprehensible"],
+    "antonyms": ["confusing", "obscure", "vague"]
+  }
+]
